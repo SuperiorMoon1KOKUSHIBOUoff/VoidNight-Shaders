@@ -1,0 +1,3 @@
+VoidNight 1.0
+Minecraft Java 1.8.9 + OptiFine
+Heavy atmospheric horror shader with fog, animated water, cinematic lighting, rain reflections, and glass refraction.
